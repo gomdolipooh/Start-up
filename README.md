@@ -11,10 +11,7 @@
 
 ## Dipstable
 
-<br>
 
-## Presentation Slides📄
-[헬스가구(최종본).pdf](https://github.com/gomdolipooh/Start-up/files/15014585/default.pdf)
 
 <br>
 
@@ -27,7 +24,11 @@
 ![image](https://github.com/gomdolipooh/Start-up/assets/97873333/2323df0a-45f7-4586-ab6a-c582e540952d)
 
 <br>
+
+## Presentation Slides📄
+[헬스가구(최종본).pdf](https://github.com/gomdolipooh/Start-up/files/15014585/default.pdf)
 <br>
+
 
 ===
 
@@ -36,9 +37,6 @@
 
 ## Biter
 
-
-## Presentation Slides📄
-[창업클럽 최종 발표 ppt.pdf](https://github.com/gomdolipooh/Start-up/files/15014833/ppt.pdf)
 
 <br>
 
@@ -54,7 +52,12 @@
 ### The details of the award won at the startup competition.
 ![KakaoTalk_20240418_015353457](https://github.com/gomdolipooh/Start-up/assets/97873333/237379da-2464-421a-8872-b1529df77c03)
 
-
 <br>
+
+## Presentation Slides📄
+[창업클럽 최종 발표 ppt.pdf](https://github.com/gomdolipooh/Start-up/files/15014833/ppt.pdf)
+
+
+
 
 

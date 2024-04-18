@@ -13,7 +13,7 @@
 
 <br>
 
-### Presentation Slides📄
+## Presentation Slides📄
 [헬스가구(최종본).pdf](https://github.com/gomdolipooh/Start-up/files/15014585/default.pdf)
 
 <br>
@@ -37,7 +37,7 @@
 ## Biter
 
 
-### Presentation Slides📄
+## Presentation Slides📄
 [창업클럽 최종 발표 ppt.pdf](https://github.com/gomdolipooh/Start-up/files/15014833/ppt.pdf)
 
 <br>

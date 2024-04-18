@@ -44,12 +44,12 @@
 
 <br>
 
-### The finished version of the prototype.
+## The finished version of the prototype.
 ![image](https://github.com/gomdolipooh/Start-up/assets/97873333/631e6c90-17c2-4a14-a3ec-aa744fe19c3b)
 
 <br>
 
-### The details of the award won at the startup competition.
+## The details of the award won at the startup competition.
 ![KakaoTalk_20240418_015353457](https://github.com/gomdolipooh/Start-up/assets/97873333/237379da-2464-421a-8872-b1529df77c03)
 
 <br>

@@ -11,7 +11,16 @@
 
 ## Dipstable
 
+<br>
+
+### Presentation Slides📄
+[헬스가구(최종본).pdf](https://github.com/gomdolipooh/Start-up/files/15014585/default.pdf)
+
+<br>
+
 ### Adding Furniture to Exercise Equipment
+
+<br>
 
 ### We have designed a dips bar with a structure similar to a desk, allowing it to also function as a desk.
 
@@ -20,12 +29,7 @@
 <br>
 <br>
 
-### Presentation Slides
-[헬스가구(최종본).pdf](https://github.com/gomdolipooh/Start-up/files/15014585/default.pdf)
-
-<br>
-<br>
-============================================================================================
+===
 
 <br>
 <br>
@@ -33,8 +37,14 @@
 ## Biter
 
 
+### Presentation Slides📄
+[창업클럽 최종 발표 ppt.pdf](https://github.com/gomdolipooh/Start-up/files/15014833/ppt.pdf)
+
+<br>
+
 ### "A workout aid device that allows for easy stretching with resistance bands even while sitting at a desk."
 
+<br>
 
 ### The finished version of the prototype.
 ![image](https://github.com/gomdolipooh/Start-up/assets/97873333/631e6c90-17c2-4a14-a3ec-aa744fe19c3b)
@@ -44,9 +54,7 @@
 ### The details of the award won at the startup competition.
 ![KakaoTalk_20240418_015353457](https://github.com/gomdolipooh/Start-up/assets/97873333/237379da-2464-421a-8872-b1529df77c03)
 
-<br>
+
 <br>
 
-### Presentation Slides
-[창업클럽 최종 발표 ppt.pdf](https://github.com/gomdolipooh/Start-up/files/15014833/ppt.pdf)
 

@@ -13,7 +13,7 @@
 
 ### Adding Furniture to Exercise Equipment
 
-We have designed a dips bar with a structure similar to a desk, allowing it to also function as a desk.
+### We have designed a dips bar with a structure similar to a desk, allowing it to also function as a desk.
 
 ![image](https://github.com/gomdolipooh/Start-up/assets/97873333/2323df0a-45f7-4586-ab6a-c582e540952d)
 
@@ -33,7 +33,7 @@ We have designed a dips bar with a structure similar to a desk, allowing it to a
 ## Biter
 
 
-"A workout aid device that allows for easy stretching with resistance bands even while sitting at a desk."
+### "A workout aid device that allows for easy stretching with resistance bands even while sitting at a desk."
 
 
 ### The finished version of the prototype.
